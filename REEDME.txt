@@ -1,0 +1,8 @@
+Descripción: Repositorio público para la difunsión de las prácticas 
+de la asignatura "Interfaces Inteligentes".
+
+Autor: Miguel Pérez Bello.
+E.T.S.Ingeniería informática.
+
+En este repositorio se encuentran las prácticas correspondiente al primero
+(Realidad Aumentada) de los dos módulos en los que se compone la asignatura.
